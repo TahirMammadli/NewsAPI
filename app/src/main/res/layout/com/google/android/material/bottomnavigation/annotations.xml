@@ -1,0 +1,6 @@
+<root>
+    <item
+        name='com.google.android.material.bottomnavigation.BottomNavigationView.OnNavigationItemSelectedListener'>
+        <annotation name='java.lang.Deprecated' />
+    </item>
+</root>
